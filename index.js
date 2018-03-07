@@ -5,3 +5,4 @@ function fixBug1() {
 
     console.log(a);
 }
+fixBug1();
